@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    "https://login-register-101-backend.onrender.com"
+    "https://login-register-101.onrender.com"
 ];
 
 module.exports = allowedOrigins;
