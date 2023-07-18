@@ -1,3 +1,3 @@
-const allowedOrigins = ["login_register.onrender.com"];
+const allowedOrigins = ["login-register-101.onrender.com"];
 
 module.exports = allowedOrigins;
