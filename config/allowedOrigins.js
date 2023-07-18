@@ -1,3 +1,3 @@
-const allowedOrigins = ["https://login-register-backend-i5pd.onrender.com"];
+const allowedOrigins = ["https://login-register-73ih.onrender.com"];
 
 module.exports = allowedOrigins;
